@@ -16,6 +16,7 @@ Qualified in Videogame Development in the University Complutense of Madrid
 
 ### Bachelor's thesis
 A plugin to incorporate a DDA system to any Unity project. The repository includes examples of its implementation in 2 different games, Neon Rider and Hellfire Poncho
+
 <a href="https://github.com/TFG-DDA/DDA"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=TFG-DDA&repo=DDA&bg_color=0a0a0a&border_color=ec7c26&title_color=ec7c26&icon_color=ffead8" alt="custom-icon-badges"></a>
 
 ### Smalest University projects
