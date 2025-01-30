@@ -73,7 +73,7 @@ A plugin to incorporate a DDA system to any Unity project. The repository includ
 <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
 <a href="#"><img alt="Overleaf" src ="https://img.shields.io/badge/Overleaf-%2347A141?logo=overleaf&logoColor=white"></a>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oskar200130)](https://github.com/oskar200130)
 <!--
 **oskar200130/oskar200130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
