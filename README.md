@@ -9,27 +9,31 @@ Qualified in Videogame Development in the University Complutense of Madrid
 
 ## Relevant projects
 ### University projects
-<a href="https://github.com/Proyectos1-FDI-UCM/Neon_Rider"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Proyectos1-FDI-UCM&repo=Neon_Rider&bg_color=0a0a0a&border_color=ec7c26&title_color=ec7c26&icon_color=ffead8" alt="custom-icon-badges"></a>
-<a href="https://github.com/sergimol/The-Squeakship"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sergimol&repo=The-Squeakship&bg_color=0a0a0a&border_color=ec7c26&title_color=ec7c26&icon_color=ffead8" alt="custom-icon-badges"></a>
-<a href="https://github.com/Juegos-ASADOS/El-Horno"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Juegos-ASADOS&repo=El-Horno&bg_color=0a0a0a&border_color=ec7c26&title_color=ec7c26&icon_color=ffead8" alt="custom-icon-badges"></a>
-<a href="https://github.com/Juegos-ASADOS/Donde-esta-la-puta-leche"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Juegos-ASADOS&repo=Donde-esta-la-puta-leche&bg_color=0a0a0a&border_color=ec7c26&title_color=ec7c26&icon_color=ffead8" alt="custom-icon-badges"></a>
+<a href="https://github.com/Proyectos1-FDI-UCM/Neon_Rider"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Proyectos1-FDI-UCM&repo=Neon_Rider&theme=radical" alt="custom-icon-badges"></a>
+<a href="https://github.com/sergimol/The-Squeakship"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sergimol&repo=The-Squeakship&theme=radical" alt="custom-icon-badges"></a>
+
+<a href="https://github.com/Juegos-ASADOS/El-Horno"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Juegos-ASADOS&repo=El-Horno&theme=radical" alt="custom-icon-badges"></a>
+<a href="https://github.com/Juegos-ASADOS/Donde-esta-la-puta-leche"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Juegos-ASADOS&repo=Donde-esta-la-puta-leche&theme=radical" alt="custom-icon-badges"></a>
 
 ### Bachelor's thesis
 A plugin to incorporate a DDA system to any Unity project. The repository includes examples of its implementation in 2 different games, Neon Rider and Hellfire Poncho
 
-<a href="https://github.com/TFG-DDA/DDA"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=TFG-DDA&repo=DDA&bg_color=0a0a0a&border_color=ec7c26&title_color=ec7c26&icon_color=ffead8" alt="custom-icon-badges"></a>
+<a href="https://github.com/TFG-DDA/DDA"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=TFG-DDA&repo=DDA&theme=radical" alt="custom-icon-badges"></a>
 
 ### Smalest University projects
 
 
 # Game Jams
-<a href="https://github.com/Juegos-ASADOS/PingPongPa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sergimol&repo=Where-The-Hell-Is-It&bg_color=0a0a0a&border_color=ec7c26&title_color=ec7c26&icon_color=ffead8" alt="custom-icon-badges"></a>
-<a href="https://github.com/sergimol/Where-The-Hell-Is-It"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sergimol&repo=Where-The-Hell-Is-It&bg_color=0a0a0a&border_color=ec7c26&title_color=ec7c26&icon_color=ffead8" alt="custom-icon-badges"></a>
-<a href="https://github.com/sergimol/DOMjudge-Simulator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sergimol&repo=DOMjudge-Simulator&bg_color=0a0a0a&border_color=ec7c26&title_color=ec7c26&icon_color=ffead8" alt="custom-icon-badges"></a>
-<a href="https://github.com/Lauu029/JamOn2023"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Lauu029&repo=JamOn2023&bg_color=0a0a0a&border_color=ec7c26&title_color=ec7c26&icon_color=ffead8" alt="custom-icon-badges"></a>
-<a href="https://github.com/Juegos-ASADOS/Antodo-Gas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Juegos-ASADOS&repo=Antodo-Gas&bg_color=0a0a0a&border_color=ec7c26&title_color=ec7c26&icon_color=ffead8" alt="custom-icon-badges"></a>
-<a href="https://github.com/Juegos-ASADOS/Lemon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Juegos-ASADOS&repo=Lemon&bg_color=0a0a0a&border_color=ec7c26&title_color=ec7c26&icon_color=ffead8" alt="custom-icon-badges"></a>
-<a href="https://github.com/Juegos-ASADOS/PingPongPa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Juegos-ASADOS&repo=PingPongPa&bg_color=0a0a0a&border_color=ec7c26&title_color=ec7c26&icon_color=ffead8" alt="custom-icon-badges"></a>
+## Global Game Jam
+<a href="https://github.com/Juegos-ASADOS/PingPongPa"><img width="220" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Juegos-ASADOS&repo=PingPongPa&theme=radical" alt="custom-icon-badges"></a>
+<a href="https://github.com/Juegos-ASADOS/Lemon"><img width="220" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Juegos-ASADOS&repo=Lemon&theme=radical" alt="custom-icon-badges"></a>
+<a href="https://github.com/Juegos-ASADOS/Antodo-Gas"><img width="220" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Juegos-ASADOS&repo=Antodo-Gas&theme=radical" alt="custom-icon-badges"></a>
+<a href="https://github.com/sergimol/Where-The-Hell-Is-It"><img width="220" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sergimol&repo=Where-The-Hell-Is-It&them=radical" alt="custom-icon-badges"></a>
+
+## Other Jams
+<a href="https://github.com/oskar200130/Aquelarre-Jam"><img width="220" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=oskar200130&repo=Aquelarre-Jam&theme=radical" alt="custom-icon-badges"></a>
+<a href="https://github.com/Lauu029/JamOn2023"><img width="220" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Lauu029&repo=JamOn2023&theme=radical" alt="custom-icon-badges"></a>
+<a href="https://github.com/sergimol/DOMjudge-Simulator"><img width="220" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sergimol&repo=DOMjudge-Simulator&theme=radical" alt="custom-icon-badges"></a>
 
 ## Programming and markup languages
 <a href="https://github.com/search?q=user%3Asergimol+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -73,7 +77,9 @@ A plugin to incorporate a DDA system to any Unity project. The repository includ
 <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
 <a href="#"><img alt="Overleaf" src ="https://img.shields.io/badge/Overleaf-%2347A141?logo=overleaf&logoColor=white"></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oskar200130)](https://github.com/oskar200130)
+## Github stats
+<a><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oskar200130&theme=radical" /></a>
+<a><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oskar200130&layout=compact&langs_count=8&card_width=320&theme=radical" /></a>
 <!--
 **oskar200130/oskar200130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
