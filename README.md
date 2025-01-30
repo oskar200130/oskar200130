@@ -25,15 +25,15 @@ A plugin to incorporate a DDA system to any Unity project. The repository includ
 
 # Game Jams
 ## Global Game Jam
-<a href="https://github.com/Juegos-ASADOS/PingPongPa"><img width="220" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Juegos-ASADOS&repo=PingPongPa&theme=radical" alt="custom-icon-badges"></a>
-<a href="https://github.com/Juegos-ASADOS/Lemon"><img width="220" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Juegos-ASADOS&repo=Lemon&theme=radical" alt="custom-icon-badges"></a>
-<a href="https://github.com/Juegos-ASADOS/Antodo-Gas"><img width="220" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Juegos-ASADOS&repo=Antodo-Gas&theme=radical" alt="custom-icon-badges"></a>
-<a href="https://github.com/sergimol/Where-The-Hell-Is-It"><img width="220" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sergimol&repo=Where-The-Hell-Is-It&theme=radical" alt="custom-icon-badges"></a>
+<a href="https://github.com/Juegos-ASADOS/PingPongPa"><img width="230" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Juegos-ASADOS&repo=PingPongPa&theme=radical" alt="custom-icon-badges"></a>
+<a href="https://github.com/Juegos-ASADOS/Lemon"><img width="230" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Juegos-ASADOS&repo=Lemon&theme=radical" alt="custom-icon-badges"></a>
+<a href="https://github.com/Juegos-ASADOS/Antodo-Gas"><img width="230" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Juegos-ASADOS&repo=Antodo-Gas&theme=radical" alt="custom-icon-badges"></a>
+<a href="https://github.com/sergimol/Where-The-Hell-Is-It"><img width="230" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sergimol&repo=Where-The-Hell-Is-It&theme=radical" alt="custom-icon-badges"></a>
 
 ## Other Jams
-<a href="https://github.com/oskar200130/Aquelarre-Jam"><img width="220" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=oskar200130&repo=Aquelarre-Jam&theme=radical" alt="custom-icon-badges"></a>
-<a href="https://github.com/Lauu029/JamOn2023"><img width="220" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Lauu029&repo=JamOn2023&theme=radical" alt="custom-icon-badges"></a>
-<a href="https://github.com/sergimol/DOMjudge-Simulator"><img width="220" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sergimol&repo=DOMjudge-Simulator&theme=radical" alt="custom-icon-badges"></a>
+<a href="https://github.com/oskar200130/Aquelarre-Jam"><img width="230" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=oskar200130&repo=Aquelarre-Jam&theme=radical" alt="custom-icon-badges"></a>
+<a href="https://github.com/Lauu029/JamOn2023"><img width="230" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Lauu029&repo=JamOn2023&theme=radical" alt="custom-icon-badges"></a>
+<a href="https://github.com/sergimol/DOMjudge-Simulator"><img width="230" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sergimol&repo=DOMjudge-Simulator&theme=radical" alt="custom-icon-badges"></a>
 
 ## Programming and markup languages
 <a href="https://github.com/search?q=user%3Asergimol+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
